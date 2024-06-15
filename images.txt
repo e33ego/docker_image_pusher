@@ -1,4 +1,4 @@
 nginx
 mysql:5.7
 mediawiki:1.39.7
-portainer:latest
+portainer/portainer
