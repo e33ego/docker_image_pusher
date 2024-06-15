@@ -1,4 +1,2 @@
 nginx
-meidawiki
-myqsl
-mariadb
+mysql:5.7
